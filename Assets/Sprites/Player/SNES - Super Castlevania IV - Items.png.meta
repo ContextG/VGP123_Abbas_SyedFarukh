@@ -10,13 +10,13 @@ TextureImporter:
     second: HeartS
   - first:
       213: 434667194965249935
-    second: SNES - Super Castlevania IV - Items_2
+    second: Knife_02
   - first:
       213: -2062784373330892739
-    second: SNES - Super Castlevania IV - Items_3
+    second: Knife_03
   - first:
       213: 913290277017144567
-    second: SNES - Super Castlevania IV - Items_4
+    second: Knife_04
   - first:
       213: -628679691502207574
     second: FireS
@@ -37,19 +37,19 @@ TextureImporter:
     second: 1up
   - first:
       213: -9150046385427409229
-    second: SNES - Super Castlevania IV - Items_11
+    second: Knife_05
   - first:
       213: 2629517702182386836
-    second: SNES - Super Castlevania IV - Items_12
+    second: Knife_06
   - first:
       213: 8026122661397509723
-    second: SNES - Super Castlevania IV - Items_13
+    second: Knife_07
   - first:
       213: 716168662697979560
-    second: SNES - Super Castlevania IV - Items_14
+    second: Knife_08
   - first:
       213: -4013781842011904770
-    second: Knife
+    second: Knife_01
   - first:
       213: -7704157130329441231
     second: SNES - Super Castlevania IV - Items_16
@@ -343,7 +343,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Knife
+      name: Knife_01
       rect:
         serializedVersion: 2
         x: 49
@@ -506,6 +506,153 @@ TextureImporter:
       bones: []
       spriteID: ee0fadc376efbc220800000000000000
       internalID: 2507377336917881070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_02
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f4b67c28f380600800000000000000
+      internalID: 434667194965249935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_03
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 84
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a263aa848f53e0800000000000000
+      internalID: -2062784373330892739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_04
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fccc6a0ba8acac00800000000000000
+      internalID: 913290277017144567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_05
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 87
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6904e9a41840180800000000000000
+      internalID: -9150046385427409229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_06
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cbe291b6ced7420800000000000000
+      internalID: 2629517702182386836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_07
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56bf4c4904826f60800000000000000
+      internalID: 8026122661397509723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_08
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 85
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae2163ba9750f900800000000000000
+      internalID: 716168662697979560
       vertices: []
       indices: 
       edges: []
