@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerCollision : MonoBehaviour
+public class CameraMovement : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -14,12 +14,5 @@ public class PlayerCollision : MonoBehaviour
     void Update()
     {
         
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        
-
-
     }
 }

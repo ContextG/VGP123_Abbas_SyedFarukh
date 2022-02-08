@@ -712,7 +712,7 @@ TextureImporter:
       name: SubWep_01
       rect:
         serializedVersion: 2
-        x: 264
+        x: 263
         y: 943
         width: 31
         height: 48
@@ -865,7 +865,7 @@ TextureImporter:
         height: 52
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 4, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -881,7 +881,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 87
-        y: 453
+        y: 452
         width: 54
         height: 61
       alignment: 7
@@ -905,8 +905,8 @@ TextureImporter:
         y: 454
         width: 80
         height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1556,8 +1556,8 @@ TextureImporter:
         y: 195
         width: 55
         height: 59
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1577,8 +1577,8 @@ TextureImporter:
         y: 195
         width: 75
         height: 47
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
