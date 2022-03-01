@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    public float attackCooldown;
-    public Transform firePoint;
-    public GameObject[] Knives;
+   [SerializeField] public float attackCooldown;
+   [SerializeField] public Transform firePoint;
+   [SerializeField] public GameObject[] Knives;
+     
     private Animator anim;
     private PlayerMovement playerMovement;
     private float cooldownTimer = Mathf.Infinity;
